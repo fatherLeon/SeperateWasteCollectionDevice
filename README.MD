@@ -1,6 +1,5 @@
 ## 투명-불투명 자동 분리수거장치
 
-<hr/>
 
 ### 작품 배경
 
@@ -29,6 +28,9 @@ https://news.seoul.go.kr/env/archives/510080
 
 불투명일경우 서보모터만 동작시켜 분리한다.
 
+### 딥러닝 모델
+
+![ex_screenshot](./img/modelPicture.PNG)
 
 <hr/>
 

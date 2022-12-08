@@ -53,6 +53,4 @@ https://news.seoul.go.kr/env/archives/510080
 사진 데이터를 흰색배경에 라벨이없는 생수병과 생탁과 화장품 몇개만을 사용해서 모으고 Tensorflow의 ImageDataGenerator를 사용하여 이미지를 증가시키다 보니 흰 불투명페트병은 분류하지 못했고 뒤에 배경이 바뀌거나 주변 밝기에 의해 예측이 변화하는 모습도 있었다.
 
 ### 결과사진
-![result1](https://user-images.githubusercontent.com/55453151/206333148-a4c97a68-0e31-4959-8cb3-4cf6c7442ac9.gif)
-![result2](https://user-images.githubusercontent.com/55453151/206333159-adb06570-4c4f-4c6a-8da0-ef711e786657.gif)
-![result3](https://user-images.githubusercontent.com/55453151/206333169-af092ab0-b244-414e-9999-17553c6c10b1.gif)
+![result2](https://user-images.githubusercontent.com/55453151/206338403-4550a09c-4226-436b-a0ff-4c60619f9dfa.gif)

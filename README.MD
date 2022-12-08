@@ -54,3 +54,4 @@ https://news.seoul.go.kr/env/archives/510080
 
 ### 결과사진
 ![result2](https://user-images.githubusercontent.com/55453151/206338403-4550a09c-4226-436b-a0ff-4c60619f9dfa.gif)
+![result1](https://github.com/fatherLeon/SeperateWasteCollectionDevice/blob/master/img/result1.gif)
